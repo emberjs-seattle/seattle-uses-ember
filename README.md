@@ -10,4 +10,5 @@ Want to get on this list? Open a [PR](https://github.com/emberjs-seattle/seattle
 
 ## People
 
+- [Brian Sipple](https://www.linkedin.com/in/briansipple/) ([@Brian_Sipple](https://twitter.com/Brian_Sipple))
 - [Paul Watts](https://www.linkedin.com/in/paulcwatts/) ([@joulespersecond](https://twitter.com/joulespersecond))
